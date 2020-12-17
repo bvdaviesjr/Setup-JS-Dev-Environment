@@ -1,0 +1,39 @@
+(1st Step) Download, Install and/or Setup the appropriate software
+
+    o	Apache / Server
+    // Download and Install Xampp or Wamp on your computer for local development
+    Apache HTTP Server is a free and open-source web server that delivers web content  on your computer as though they were being viewed online.
+
+    o	Text Editor
+    // Download your prefered text editor like: Visual Studio Code, Dream Weaver etc…
+    This program will be used to write a computer program, website or web app
+
+    o	Browsers (Chrome, Firefox and/or Internet Explorer)
+    // This program will be used to display the finished(website or app) project on the internet
+    A browser is software that is used to access and display web files both on your computer and on the internet
+    
+    o	Create the appropriate Folders and Files
+    // Make sure to create the appropriate folders in the relevant location
+    // Make sure to create the appropriate files...
+    
+
+(2nd Step) Initialize JavaScript in your project
+
+    Initialize JavaScript
+    •	Embed JavaScript tag in the <body> section the web page
+        Implementation
+        <body>
+        <script> 
+        // add code here 
+        let name = “Benjamin”;
+        </script>
+        </body>
+
+    •	Link JavaScript Externally 
+      Create the Root file (eg: Index.html, index.php etc…) and the external JS file, within the root file link to the external Javascript File inorder to utilize its codes…
+
+      Implementation of the Root file
+      <body>
+        // Link to the external JavaScript file
+        <script src=”external.js”></script>
+      </body>
